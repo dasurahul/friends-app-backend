@@ -12,7 +12,7 @@ module.exports = {
         "Joey Tribbiani",
         "Phoebe Buffay",
       ],
-      image: "../assets/images/ross.jpeg",
+      image: "https://i.ibb.co/R3qYz26/ross.jpg",
       gender: "Male",
       description:
         "Ross Geller is a highly intelligent paleontologist who is often known for his nerdy and awkward demeanor. He is passionate about dinosaurs and spends most of his time working at the museum.",
@@ -29,7 +29,7 @@ module.exports = {
         "Joey Tribbiani",
         "Phoebe Buffay",
       ],
-      image: "../assets/images/rachel.jpg",
+      image: "https://i.ibb.co/Qk4kGL9/rachel.jpg",
       gender: "Female",
       description:
         "Rachel Green is a fashionable and independent woman who starts off as a spoiled daddy's girl. Throughout the series, she evolves into a strong and determined career woman.",
@@ -47,7 +47,7 @@ module.exports = {
         "Joey Tribbiani",
         "Phoebe Buffay",
       ],
-      image: "../assets/images/monica.jpg",
+      image: "https://i.ibb.co/C1Q9njv/monica.jpg",
       gender: "Female",
       description:
         "Monica Geller is a perfectionist and talented chef with a strong competitive streak. She is known for her cleanliness and organization skills, and she often takes on the role of the responsible friend in the group.",
@@ -65,7 +65,7 @@ module.exports = {
         "Joey Tribbiani",
         "Phoebe Buffay",
       ],
-      image: "../assets/images/chandler.jpg",
+      image: "https://i.ibb.co/CnwswhX/chandler.jpg",
       gender: "Male",
       description:
         "Chandler Bing is known for his sarcastic wit and sense of humor. He often uses humor as a defense mechanism and struggles with commitment and emotional vulnerability.",
@@ -83,7 +83,7 @@ module.exports = {
         "Ross Geller",
         "Phoebe Buffay",
       ],
-      image: "../assets/images/joey.jpg",
+      image: "https://i.ibb.co/HgBddV6/joey.webp",
       gender: "Male",
       description:
         "Joey Tribbiani is an aspiring actor with a charming and lovable personality. He is known for his womanizing ways, love for food, and iconic catchphrase, 'How you doin'?'",
@@ -101,7 +101,7 @@ module.exports = {
         "Ross Geller",
         "Joey Tribbiani",
       ],
-      image: "../assets/images/phoebe.jpg",
+      image: "https://i.ibb.co/VSvjMyT/phoebe.webp",
       gender: "Female",
       description:
         "Phoebe Buffay is a free-spirited and eccentric musician who often brings a unique perspective to the group. She has a quirky sense of humor and a love for performing her original songs.",
@@ -115,7 +115,7 @@ module.exports = {
       age: 35,
       relationship_status: "Divorced",
       friends: ["Chandler Bing"],
-      image: "../assets/images/janice.jpg",
+      image: "https://i.ibb.co/LPkvYsx/janice.jpg",
       gender: "Female",
       description:
         "Janice Hosenstein is a loud and overly dramatic woman who has an on-again, off-again relationship with Chandler Bing. Her distinctive voice and catchphrase 'Oh. My. God.' make her a memorable character.",
@@ -127,7 +127,7 @@ module.exports = {
       age: 28,
       relationship_status: "Single",
       friends: ["Rachel Green"],
-      image: "../assets/images/gunther.jpg",
+      image: "https://i.ibb.co/HDsWJJk/gunther.jpg",
       gender: "Male",
       description:
         "Gunther is a quiet and often unnoticed barista at Central Perk, the coffee shop where the friends frequently hang out. He has an unrequited love for Rachel and is known for his bleached blonde hair.",
@@ -139,7 +139,7 @@ module.exports = {
       age: 35,
       relationship_status: "Married",
       friends: ["Phoebe Buffay"],
-      image: "../assets/images/mike.jpg",
+      image: "https://i.ibb.co/wcDtfgC/mike.jpg",
       gender: "Male",
       description:
         "Mike Hannigan is a kind-hearted and supportive man who becomes Phoebe Buffay's husband. He is initially hesitant about marriage but eventually realizes his love for Phoebe.",
@@ -151,7 +151,7 @@ module.exports = {
       age: 52,
       relationship_status: "Single",
       friends: ["Joey Tribbiani"],
-      image: "../assets/images/estelle.jpg",
+      image: "https://i.ibb.co/drq1HWV/estelle.jpg",
       gender: "Female",
       description:
         "Estelle Leonard is Joey Tribbiani's tough-talking and somewhat unprofessional talent agent. She often gets Joey auditions for questionable roles and is known for her brash personality.",
@@ -163,7 +163,7 @@ module.exports = {
       age: 65,
       relationship_status: "Single",
       friends: [],
-      image: "../assets/images/heckles.jpg",
+      image: "https://i.ibb.co/HF0MmkJ/heckles.webp",
       gender: "Male",
       description:
         "Mr. Heckles is the eccentric and grumpy neighbor who lives below Monica and Rachel's apartment. He frequently complains about the noise from their apartment and is known for his peculiar behavior.",
@@ -175,7 +175,7 @@ module.exports = {
       age: 28,
       relationship_status: "Married",
       friends: [],
-      image: "../assets/images/emily.jpg",
+      image: "https://i.ibb.co/S6rypQb/emily.jpg",
       gender: "Female",
       description:
         "Emily Waltham is a British woman whom Ross dates and eventually marries. Their relationship becomes complicated when Ross accidentally says Rachel's name during their wedding vows.",
@@ -188,7 +188,7 @@ module.exports = {
       age: 45,
       relationship_status: "Divorced",
       friends: [],
-      image: "../assets/images/richard.jpg",
+      image: "https://i.ibb.co/r3m5rBW/richard.jpg",
       gender: "Male",
       description:
         "Richard Burke is an older man who becomes involved in a romantic relationship with Monica. He is a successful ophthalmologist and shares a love for fine dining and travel with Monica.",
@@ -201,7 +201,7 @@ module.exports = {
       age: 58,
       relationship_status: "Married",
       friends: [],
-      image: "../assets/images/judy.jpg",
+      image: "https://i.ibb.co/9ggwnHN/judy.jpg",
       gender: "Female",
       description:
         "Judy Geller is Ross and Monica's mother. She is portrayed as critical and overbearing, often making sarcastic remarks. She is married to Jack Geller and is known for her competitive nature.",
@@ -214,7 +214,7 @@ module.exports = {
       age: 33,
       relationship_status: "Single",
       friends: [],
-      image: "../assets/images/ursula.jpg",
+      image: "https://i.ibb.co/cJz5t8S/ursula.jpg",
       gender: "Female",
       description:
         "Ursula Buffay is Phoebe Buffay's identical twin sister. She is often portrayed as selfish and manipulative. She works as a waitress and is known for her aloof personality.",
@@ -226,7 +226,7 @@ module.exports = {
       age: 33,
       relationship_status: "Married",
       friends: [],
-      image: "../assets/images/carol.jpg",
+      image: "https://i.ibb.co/Cb9sQdG/carol.jpg",
       gender: "Female",
       description:
         "Carol Willick is Ross's ex-wife and the mother of his son, Ben. She later marries Susan Bunch and co-parents Ben with Ross. Carol's relationship with Ross is a recurring theme throughout the series.",
