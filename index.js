@@ -12,7 +12,11 @@ const allCharacters = [...data.characters, ...data.extras];
 const app = express();
 
 app.use(express.json());
-app.use(cors({ origin: "*" }));
+app.use(
+  cors({
+    origin: ["http://localhost:4200", "https://friends-app-rahul.vercel.app"],
+  })
+);
 
 mongoose
   .connect(process.env.MONGODB_URI)
