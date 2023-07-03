@@ -21,14 +21,14 @@ mongoose
 
 app.listen(3000);
 
-app.get("/friends", authentication, (req, res) => {
+app.get("/friends", (req, res) => {
   res.status(200).json({
     message: "Friends list fetched successfully",
     data: allCharacters,
   });
 });
 
-app.get("/friends/:name", authentication, (req, res) => {
+app.get("/friends/:name", (req, res) => {
   const name = req.params.name;
   const friend = allCharacters.find((character) => character.name === name);
   if (!friend) {
